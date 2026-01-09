@@ -26,8 +26,4 @@ produce a line break.</p>
 =======
 
 ### Git Course Commands:
-cd
-mkdir 
-git clone https://github.com/AboSalah4/Git_Course.git
-cd Git_Course
-dir
+mkdir, git clone https://github.com/AboSalah4/Git_Course.git, cd Git_Course, dir
