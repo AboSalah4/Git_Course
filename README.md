@@ -6,7 +6,6 @@ https://markdownlivepreview.com/
 Heading
 =======
 Sub-heading
------------
 =======
 
 ### Git Course Commands:
